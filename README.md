@@ -1,2 +1,2 @@
 # hello-world
-Test Repository
+Hey, my name is Jeremiah and this is my first GitHub repo
